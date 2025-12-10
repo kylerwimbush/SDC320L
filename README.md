@@ -1,1 +1,1 @@
-# SDC320L
+The banking management program allows a user to create and manage customer information in a centralized program, all housed in a SQLite database. The application lets you create and update user information, deposit and withdraw money, and delete users. 
